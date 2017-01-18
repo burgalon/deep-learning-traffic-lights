@@ -75,10 +75,12 @@ Found 16767 images belonging to 3 classes.
 
 
 ## Example images:
-###
+### No traffic light
 ![No traffic light 1](/images/example-none-1.jpg)
 ![No traffic light 2](/images/example-none-2.jpg)
+### Green traffic light
 ![Green light 1](/images/example-green-1.jpg)
 ![Green light 2](/images/example-green-2.jpg)
+### Red traffic light
 ![Red light 1](/images/example-red-1.jpg)
 ![Red light 2](/images/example-red-2.jpg)
