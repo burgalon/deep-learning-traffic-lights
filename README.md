@@ -24,7 +24,7 @@ I have come up with a network architecture which is composed of 3 convolutional 
 * After trying to fine-tune the hyper-parameters, I have settled on 3,3 filter sizes which seemed to have worked best
 * As for working tools, after trying to use Tensorflow straight up, I switched to Keras together Python notebooks, which helped experiementation and visualization a lot.
 
-## Things I tried which improve the training
+## Things I tried which didn't improve the training
 * first batch normalization layer
 * Cropping - I had a feeling that cropping the lower half of the picture might help the training, but it seemed like this actually decreased the learning.
 * I have spent many hours working with Amazon GPU instances which helped me experiement, but in the end, since the model size had to remain small, experiementing on my own laptop was fast.
